@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theG-123
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: @ me in a post
 
