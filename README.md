@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theG-123
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning web application hacking (ethically)
+- 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me: @ me in a post
 
 <!---
